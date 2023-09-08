@@ -1,0 +1,15 @@
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\bin\Debug\net6.0\ServerSupple.exe
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\bin\Debug\net6.0\ServerSupple.deps.json
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\bin\Debug\net6.0\ServerSupple.runtimeconfig.json
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\bin\Debug\net6.0\ServerSupple.dll
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\bin\Debug\net6.0\ServerSupple.pdb
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ServerSupple.csproj.AssemblyReference.cache
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ServerSupple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ServerSupple.AssemblyInfoInputs.cache
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ServerSupple.AssemblyInfo.cs
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ServerSupple.csproj.CoreCompileInputs.cache
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ServerSupple.dll
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\refint\ServerSupple.dll
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ServerSupple.pdb
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ServerSupple.genruntimeconfig.cache
+C:\Users\Mercury\source\repos\ServerSupple\ServerSupple\obj\Debug\net6.0\ref\ServerSupple.dll
